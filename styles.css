@@ -1631,4 +1631,26 @@ body {
       margin-top: 30px;
     }
   }
+  /* Responsive bổ sung cho company-capacity */
+@media (max-width: 600px) {
+    .company-capacity {
+      padding: 20px 15px;
+      gap: 30px;
+    }
+  
+    .capacity-text h2 {
+      font-size: 24px;
+    }
+  
+    .capacity-text p {
+      font-size: 16px;
+      line-height: 1.7;
+    }
+  
+    .pdf-frame {
+      width: 100% !important;
+      height: auto;
+      min-height: 400px; /* đảm bảo vẫn hiển thị đủ nội dung */
+    }
+  }
   
