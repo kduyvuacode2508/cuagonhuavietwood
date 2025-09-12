@@ -66,7 +66,7 @@ let product = [
   { tile: "M068", img: "./anh/M068.jpg", content: "Phong cách tối giản, phù hợp xu hướng kiến trúc hiện đại." },
   { tile: "M069", img: "./anh/M069.jpg", content: "Khả năng chống nước và chống ẩm tuyệt đối, bền lâu theo năm tháng." },
   { tile: "M070", img: "./anh/M070.jpg", content: "Đường vân gỗ sang trọng, tạo cảm giác ấm áp cho ngôi nhà." },
-  { tile: "M071", img: "./anh/M071.jpg", content: "Đóng mở êm ái, vận hành nhẹ nhàng, không gây tiếng ồn." },
+  
   { tile: "M072", img: "./anh/M072.jpg", content: "Thiết kế đẹp mắt, dễ phối hợp với nhiều loại nội thất." },
   { tile: "M073", img: "./anh/M073.jpg", content: "Chống mối mọt, chống cong vênh, duy trì độ bền bỉ cao." },
   { tile: "M074", img: "./anh/M074.jpg", content: "Cửa gỗ nhựa đa dạng màu sắc, đáp ứng nhiều phong cách khác nhau." },
@@ -92,7 +92,7 @@ let product = [
   { tile: "M094", img: "./anh/M094.jpg", content: "Đóng mở trơn tru, bền bỉ, phù hợp sử dụng lâu dài." },
   { tile: "M095", img: "./anh/M095.jpg", content: "Cửa gỗ nhựa với thiết kế hiện đại, tiện nghi cho mọi ngôi nhà." },
   { tile: "M096", img: "./anh/M096.jpg", content: "Chống ẩm mốc, chống mối mọt, đảm bảo chất lượng tuyệt đối." },
-  { tile: "M097", img: "./anh/M097.jpg", content: "Được sản xuất trên công nghệ tiên tiến, đạt chuẩn quốc tế." },
+ 
   { tile: "M098", img: "./anh/M098.jpg", content: "Mẫu cửa tinh tế, đường nét hài hòa, mang lại sự sang trọng." },
   { tile: "M099", img: "./anh/M099.jpg", content: "Chất lượng vượt trội, giá cả hợp lý, phù hợp mọi gia đình." },
   { tile: "M0100", img: "./anh/M0100.jpg", content: "Phong cách thiết kế hiện đại, nâng tầm không gian sống." },
