@@ -137,7 +137,7 @@ function loadProducts() {
           <p>${product[i].content}</p>
           <div class="product-features">
             <span><i class="fas fa-check"></i> Kích thước: 800x2100mm</span>
-            <span><i class="fas fa-check"></i> Độ dày: 45mm</span>
+            <span><i class="fas fa-check"></i> Độ dày: 55mm</span>
             <span><i class="fas fa-check"></i> Màu sắc: 8 lựa chọn</span>
           </div>
           <button class="btn-contact">
